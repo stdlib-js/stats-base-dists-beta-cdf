@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-02-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9d71f4b`](https://github.com/stdlib-js/stdlib/commit/9d71f4b4d116829abcea63c67ffb7b61d798e11c) - **bench:** refactor to use string interpolation in `stats/base/dists/beta` [(#10049)](https://github.com/stdlib-js/stdlib/pull/10049) _(by Harsh Yadav)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`4d16c32`](https://github.com/stdlib-js/stdlib/commit/4d16c32fb0ceb4b18fb2548aa596251d9e8c99f4) - **bench:** update random value generation [(#6794)](https://github.com/stdlib-js/stdlib/pull/6794) _(by Harsh Yadav, Athan Reines)_
