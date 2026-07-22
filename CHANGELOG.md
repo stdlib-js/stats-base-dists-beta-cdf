@@ -2,6 +2,52 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-07-22)
+
+<section class="features">
+
+### Features
+
+-   [`fa5ac3e`](https://github.com/stdlib-js/stdlib/commit/fa5ac3e85a7a4cf1f3ced529eb6285b039718191) - add C implementation for `stats/base/dists/beta/cdf` [(#11450)](https://github.com/stdlib-js/stdlib/pull/11450)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fa5ac3e`](https://github.com/stdlib-js/stdlib/commit/fa5ac3e85a7a4cf1f3ced529eb6285b039718191) - **feat:** add C implementation for `stats/base/dists/beta/cdf` [(#11450)](https://github.com/stdlib-js/stdlib/pull/11450) _(by Lokesh Ranjan, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Lokesh Ranjan
+-   Neeraj Pathak
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
