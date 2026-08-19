@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-08-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4df94c4`](https://github.com/stdlib-js/stdlib/commit/4df94c400faa6789db335debdc8aa388f508d843) - **docs:** add missing usage notes sections and MGF link [(#14392)](https://github.com/stdlib-js/stdlib/pull/14392) _(by Philipp Burckhardt)_
 -   [`4b25135`](https://github.com/stdlib-js/stdlib/commit/4b2513556546cf3dfcc8fb9adb61d5dccaedbcbe) - **chore:** clean-up [(#13626)](https://github.com/stdlib-js/stdlib/pull/13626) _(by Philipp Burckhardt)_
 -   [`fa5ac3e`](https://github.com/stdlib-js/stdlib/commit/fa5ac3e85a7a4cf1f3ced529eb6285b039718191) - **feat:** add C implementation for `stats/base/dists/beta/cdf` [(#11450)](https://github.com/stdlib-js/stdlib/pull/11450) _(by Lokesh Ranjan, Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 
